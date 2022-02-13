@@ -1,6 +1,6 @@
 ﻿# CSS Grid Layout
 
-Projeto criado com o foco na utilização da propriedade Grid Layout.
+Projeto criado com o foco na utilização da propriedade Grid Layout. Via [CSS Grid Layout - Origamid](https://www.origamid.com/curso/css-grid-layout)
 
 ## Screenshot
 
