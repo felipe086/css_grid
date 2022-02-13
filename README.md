@@ -6,7 +6,8 @@ Projeto criado com o foco na utilização da propriedade Grid Layout.
 
 Final PC
 
-❮img src="img/final/final.png" height="100" ❯
+<img src="img/final/final.png" height="100">
+
 
 1º breakpoint
 
